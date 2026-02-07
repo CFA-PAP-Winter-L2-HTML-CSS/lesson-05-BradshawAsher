@@ -16,3 +16,40 @@ h1 {
 
 
 /* ============ Student code ============ */
+p {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px;
+    font-size: 1.5rem;
+}
+
+#color1 {
+    background-color: crimson;
+    color: white;
+    border: 6px solid #14dcb4;
+}
+
+#color2 {
+    background-color: gold;
+    color: black;
+    border: 6px solid #0028ff;
+}
+
+#color3 {
+    background-color: teal;
+    color: white;
+    border: 6px solid #800000;
+}
+
+#color4 {
+    background-color: lavender;
+    color: black;
+    border: 6px solid #fafae6;
+}
+
+#color5 {
+    background-color: navy;
+    color: white;
+    border: 6px solid #808000;
+}
